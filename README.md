@@ -1,6 +1,8 @@
 CODESOFT INTENSHIP TASKS
 
 TASK 1 : NUMBER GAME
+
+
 Task Description
 Generate a random number within a specified range, such as 1 to 100.
 Prompt the user to enter their guess for the generated number.
@@ -11,7 +13,10 @@ Add the option for multiple rounds, allowing the user to play again.
 Display the user's score, which can be based on the number of attempts taken or rounds won.
 
 
+
 TASK 3 : ATM INTERFACE
+
+
 1.Create a class to represent the ATM machine.
 2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
 checking the balance.
@@ -25,6 +30,8 @@ balance.
 of their transactions.
 
 TASK 4 : CURRENCY CONVERTOR
+
+
 Currency Selection: Allow the user to choose the base cu rrency and the target
 cu rrency.
 Currency Rates: Fetch real-time exchange rates from a reliable API.
